@@ -1,1 +1,1 @@
-ignoreRules = [ "no-empty" ]
+ignoreRules = [ "no-empty", "missingoverride" ]
